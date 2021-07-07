@@ -1,0 +1,40 @@
+<?xml  version ="1.0" encoding="UTF-8"?>
+<users>
+	<user>
+		<firstName>Maple</firstName>
+		<lastName>ABBB</lastName>
+		<emailAddress>maplef@a@@ol..%%com</emailAddress>
+	</user>
+	
+    <user>
+        <firstName>John</firstName>
+        <lastName>Doe</lastName>
+        <emailAddress>johndoe@gmail.com</emailAddress>
+    </user>
+
+    <user>
+        <firstName>Jane</firstName>
+        <lastName>Sky</lastName>
+        <emailAddress>janesky@gdcit.com</emailAddress>
+    </user>
+
+	<user>
+		<firstName>Mandalorian</firstName>
+		<lastName>SKDF</lastName>
+		<emailAddress>mcom.com</emailAddress>
+	</user>
+	
+	<user>
+        <firstName>Gina</firstName>
+        <lastName>Van</lastName>
+        <emailAddress>dsdsk123@gmaildf#dfdsghkfdh$com</emailAddress>
+    </user>
+	
+	<user>
+        <firstName>Acadia</firstName>
+        <lastName>Dif</lastName>
+        <emailAddress>acadfsdiadif@aol....!com</emailAddress>
+    </user>
+
+</users>
+

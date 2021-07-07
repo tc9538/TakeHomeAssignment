@@ -1,0 +1,13 @@
+C:\Users\trucc\source\repos\TakeHomeAssignment\TakeHomeAssignment\bin\Debug\netcoreapp3.1\TakeHomeAssignment.exe
+C:\Users\trucc\source\repos\TakeHomeAssignment\TakeHomeAssignment\bin\Debug\netcoreapp3.1\TakeHomeAssignment.deps.json
+C:\Users\trucc\source\repos\TakeHomeAssignment\TakeHomeAssignment\bin\Debug\netcoreapp3.1\TakeHomeAssignment.runtimeconfig.json
+C:\Users\trucc\source\repos\TakeHomeAssignment\TakeHomeAssignment\bin\Debug\netcoreapp3.1\TakeHomeAssignment.runtimeconfig.dev.json
+C:\Users\trucc\source\repos\TakeHomeAssignment\TakeHomeAssignment\bin\Debug\netcoreapp3.1\TakeHomeAssignment.dll
+C:\Users\trucc\source\repos\TakeHomeAssignment\TakeHomeAssignment\bin\Debug\netcoreapp3.1\TakeHomeAssignment.pdb
+C:\Users\trucc\source\repos\TakeHomeAssignment\TakeHomeAssignment\obj\Debug\netcoreapp3.1\TakeHomeAssignment.AssemblyInfoInputs.cache
+C:\Users\trucc\source\repos\TakeHomeAssignment\TakeHomeAssignment\obj\Debug\netcoreapp3.1\TakeHomeAssignment.AssemblyInfo.cs
+C:\Users\trucc\source\repos\TakeHomeAssignment\TakeHomeAssignment\obj\Debug\netcoreapp3.1\TakeHomeAssignment.csproj.CoreCompileInputs.cache
+C:\Users\trucc\source\repos\TakeHomeAssignment\TakeHomeAssignment\obj\Debug\netcoreapp3.1\TakeHomeAssignment.dll
+C:\Users\trucc\source\repos\TakeHomeAssignment\TakeHomeAssignment\obj\Debug\netcoreapp3.1\TakeHomeAssignment.pdb
+C:\Users\trucc\source\repos\TakeHomeAssignment\TakeHomeAssignment\obj\Debug\netcoreapp3.1\TakeHomeAssignment.genruntimeconfig.cache
+C:\Users\trucc\source\repos\TakeHomeAssignment\TakeHomeAssignment\obj\Debug\netcoreapp3.1\TakeHomeAssignment.csproj.AssemblyReference.cache
