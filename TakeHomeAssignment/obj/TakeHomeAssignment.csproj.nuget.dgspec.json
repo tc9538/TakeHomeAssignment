@@ -1,23 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\trucc\\source\\repos\\TakeHomeAssignment\\TakeHomeAssignment\\TakeHomeAssignment.csproj": {}
+    "C:\\Users\\trucc\\Source\\Repos\\TakeHomeAssignment\\TakeHomeAssignment\\TakeHomeAssignment.csproj": {}
   },
   "projects": {
-    "C:\\Users\\trucc\\source\\repos\\TakeHomeAssignment\\TakeHomeAssignment\\TakeHomeAssignment.csproj": {
+    "C:\\Users\\trucc\\Source\\Repos\\TakeHomeAssignment\\TakeHomeAssignment\\TakeHomeAssignment.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\trucc\\source\\repos\\TakeHomeAssignment\\TakeHomeAssignment\\TakeHomeAssignment.csproj",
+        "projectUniqueName": "C:\\Users\\trucc\\Source\\Repos\\TakeHomeAssignment\\TakeHomeAssignment\\TakeHomeAssignment.csproj",
         "projectName": "TakeHomeAssignment",
-        "projectPath": "C:\\Users\\trucc\\source\\repos\\TakeHomeAssignment\\TakeHomeAssignment\\TakeHomeAssignment.csproj",
+        "projectPath": "C:\\Users\\trucc\\Source\\Repos\\TakeHomeAssignment\\TakeHomeAssignment\\TakeHomeAssignment.csproj",
         "packagesPath": "C:\\Users\\trucc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\trucc\\source\\repos\\TakeHomeAssignment\\TakeHomeAssignment\\obj\\",
+        "outputPath": "C:\\Users\\trucc\\Source\\Repos\\TakeHomeAssignment\\TakeHomeAssignment\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
           "C:\\Users\\trucc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

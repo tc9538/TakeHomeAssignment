@@ -11,7 +11,7 @@ namespace TakeHomeAssignment
     {
         static void Main(string[] args)
         {
-            
+            //This is a test
             Console.WriteLine("Pleaser enter an XML filename that you need to search. ");
             //Remove the extra spaces from the filename if the user accidentally adds additional spaces
             string fileName = (Console.ReadLine()).Replace(" ", "");
